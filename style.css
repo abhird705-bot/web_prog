@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(28, 28, 94);
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+p{
+    text-align: left;
+    color: azure;
+}
